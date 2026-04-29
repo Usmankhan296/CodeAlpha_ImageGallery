@@ -15,4 +15,4 @@ CSS3
 JavaScript (Vanilla JS)
 📸 Preview
 ![CodeAlpha_ImageGallery Screenshot](sc1.png)
-![CodeAlpha_ImageGallery Screenshot](sc1.png)
+![CodeAlpha_ImageGallery Screenshot](sc2.png)
